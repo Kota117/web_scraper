@@ -1,2 +1,15 @@
 # web_scraper
-Boot.dev "Build a Web Scraper in Go" course
+
+## Building and running the project
+
+Build:
+
+```sh
+go build -o crawler
+```
+
+Run:
+
+```sh
+./crawler
+```
