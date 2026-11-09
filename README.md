@@ -11,5 +11,5 @@ go build -o crawler
 Run:
 
 ```sh
-./crawler
+./crawler BASE_URL
 ```
