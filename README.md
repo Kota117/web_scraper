@@ -13,3 +13,9 @@ Run:
 ```sh
 ./crawler BASE_URL
 ```
+
+Developer example:
+
+```sh
+go run . https://learnwebscraping.dev/practice/ecommerce/
+```
