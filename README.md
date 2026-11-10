@@ -11,11 +11,11 @@ go build -o crawler
 Run:
 
 ```sh
-./crawler BASE_URL
+./crawler BASE_URL maxConcurrency maxPages
 ```
 
 Developer example:
 
 ```sh
-go run . https://learnwebscraping.dev/practice/ecommerce/
+go run . https://learnwebscraping.dev/practice/ecommerce/ 3 10
 ```
